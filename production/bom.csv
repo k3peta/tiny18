@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BT1_2, BT1",JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal,2,Battery_Cell,
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",SW_PG1350_reversible,9,SW_Push,
+SW10,TGSW_MSK-12D19,1,SW_SPDT,
+U1,XIAO_ble,1,xiao-ble,
